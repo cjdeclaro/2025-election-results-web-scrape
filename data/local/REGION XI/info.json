@@ -1,0 +1,23 @@
+{
+  "regions": [{
+    "categoryCode": "3",
+    "masterCode": "R011000",
+    "code": "2300000",
+    "name": "DAVAO DEL NORTE"
+  }, {
+    "categoryCode": "3",
+    "masterCode": "R011000",
+    "code": "2400000",
+    "name": "DAVAO DEL SUR"
+  }, {
+    "categoryCode": "3",
+    "masterCode": "R011000",
+    "code": "2500000",
+    "name": "DAVAO ORIENTAL"
+  }, {
+    "categoryCode": "3",
+    "masterCode": "R011000",
+    "code": "8200000",
+    "name": "COMPOSTELA VALLEY"
+  }]
+}
