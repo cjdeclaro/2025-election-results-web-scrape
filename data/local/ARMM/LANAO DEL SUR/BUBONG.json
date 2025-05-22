@@ -1,0 +1,1613 @@
+{
+    "cityName": "BUBONG",
+    "data": [
+        {
+            "barangayName": "BUALAN",
+            "data": [
+                {
+                    "totalErReceived": 100,
+                    "information": {
+                        "machineId": "36060006",
+                        "location": "BARMM, LANAO DEL SUR, BUBONG, BUALAN",
+                        "votingCenter": "BRGY. PENDOGOAN",
+                        "precinctId": "36060006",
+                        "precinctInCluster": "0006A, 0006B, 0006C",
+                        "abstentions": 0,
+                        "numberOfRegisteredVoters": 401,
+                        "numberOfActuallyVoters": 353,
+                        "numberOfValidBallot": 353,
+                        "turnout": 88.030000000000001136868377216160297393798828125
+                    },
+                    "national": [
+                        {
+                            "contestCode": "00399000",
+                            "contestName": "SENATOR of PHILIPPINES",
+                            "statistic": {
+                                "overVotes": 96,
+                                "underVotes": 1140,
+                                "validVotes": 4812,
+                                "obtainedVotes": 3000
+                            },
+                            "candidates": {
+                                "candidates": [
+                                    {
+                                        "name": "1. ABALOS, BENHUR (PFP)",
+                                        "votes": 49,
+                                        "percentage": 1.62999999999999989341858963598497211933135986328125
+                                    },
+                                    {
+                                        "name": "2. ADONIS, JEROME (MKBYN)",
+                                        "votes": 4,
+                                        "percentage": 0.13000000000000000444089209850062616169452667236328125
+                                    },
+                                    {
+                                        "name": "3. AMAD, WILSON (IND)",
+                                        "votes": 17,
+                                        "percentage": 0.56999999999999995115018691649311222136020660400390625
+                                    },
+                                    {
+                                        "name": "4. ANDAMO, NARS ALYN (MKBYN)",
+                                        "votes": 6,
+                                        "percentage": 0.200000000000000011102230246251565404236316680908203125
+                                    },
+                                    {
+                                        "name": "5. AQUINO, BAM (KNP)",
+                                        "votes": 105,
+                                        "percentage": 3.5
+                                    },
+                                    {
+                                        "name": "6. ARAMBULO, RONNEL (MKBYN)",
+                                        "votes": 16,
+                                        "percentage": 0.5300000000000000266453525910037569701671600341796875
+                                    },
+                                    {
+                                        "name": "7. ARELLANO, ERNESTO (KTPNAN)",
+                                        "votes": 9,
+                                        "percentage": 0.299999999999999988897769753748434595763683319091796875
+                                    },
+                                    {
+                                        "name": "8. BALLON, ROBERTO (IND)",
+                                        "votes": 6,
+                                        "percentage": 0.200000000000000011102230246251565404236316680908203125
+                                    },
+                                    {
+                                        "name": "9. BINAY, ABBY (NPC)",
+                                        "votes": 43,
+                                        "percentage": 1.4299999999999999378275106209912337362766265869140625
+                                    },
+                                    {
+                                        "name": "10. BONDOC, JIMMY (PDPLBN)",
+                                        "votes": 156,
+                                        "percentage": 5.20000000000000017763568394002504646778106689453125
+                                    },
+                                    {
+                                        "name": "11. BONG REVILLA,RAMON, JR.(LAKAS)",
+                                        "votes": 48,
+                                        "percentage": 1.600000000000000088817841970012523233890533447265625
+                                    },
+                                    {
+                                        "name": "12. BOSITA, COLONEL (IND)",
+                                        "votes": 36,
+                                        "percentage": 1.1999999999999999555910790149937383830547332763671875
+                                    },
+                                    {
+                                        "name": "13. BROSAS, ARLENE (MKBYN)",
+                                        "votes": 12,
+                                        "percentage": 0.40000000000000002220446049250313080847263336181640625
+                                    },
+                                    {
+                                        "name": "14. CABONEGRO, ROY (DPP)",
+                                        "votes": 11,
+                                        "percentage": 0.36999999999999999555910790149937383830547332763671875
+                                    },
+                                    {
+                                        "name": "15. CAPUYAN, ALLEN (PPP)",
+                                        "votes": 11,
+                                        "percentage": 0.36999999999999999555910790149937383830547332763671875
+                                    },
+                                    {
+                                        "name": "16. CASI\u00d1O, TEDDY (MKBYN)",
+                                        "votes": 11,
+                                        "percentage": 0.36999999999999999555910790149937383830547332763671875
+                                    },
+                                    {
+                                        "name": "17. CASTRO, TEACHER FRANCE (MKBYN)",
+                                        "votes": 13,
+                                        "percentage": 0.429999999999999993338661852249060757458209991455078125
+                                    },
+                                    {
+                                        "name": "18. CAYETANO, PIA (NP)",
+                                        "votes": 62,
+                                        "percentage": 2.069999999999999840127884453977458178997039794921875
+                                    },
+                                    {
+                                        "name": "19. D'ANGELO, DAVID (BUNYOG)",
+                                        "votes": 6,
+                                        "percentage": 0.200000000000000011102230246251565404236316680908203125
+                                    },
+                                    {
+                                        "name": "20. DE ALBAN,ATTORNEY ANGELO (IND)",
+                                        "votes": 13,
+                                        "percentage": 0.429999999999999993338661852249060757458209991455078125
+                                    },
+                                    {
+                                        "name": "21. DE GUZMAN, KA LEODY (PLM)",
+                                        "votes": 17,
+                                        "percentage": 0.56999999999999995115018691649311222136020660400390625
+                                    },
+                                    {
+                                        "name": "22. DELA ROSA, BATO (PDPLBN)",
+                                        "votes": 241,
+                                        "percentage": 8.0299999999999993605115378159098327159881591796875
+                                    },
+                                    {
+                                        "name": "23. DORINGO, NANAY MIMI (MKBYN)",
+                                        "votes": 13,
+                                        "percentage": 0.429999999999999993338661852249060757458209991455078125
+                                    },
+                                    {
+                                        "name": "24. ESCOBAL, ARNEL (PM)",
+                                        "votes": 7,
+                                        "percentage": 0.2300000000000000099920072216264088638126850128173828125
+                                    },
+                                    {
+                                        "name": "25. ESPIRITU, LUKE (PLM)",
+                                        "votes": 16,
+                                        "percentage": 0.5300000000000000266453525910037569701671600341796875
+                                    },
+                                    {
+                                        "name": "26. FLORANDA, MODY PISTON (MKBYN)",
+                                        "votes": 8,
+                                        "percentage": 0.270000000000000017763568394002504646778106689453125
+                                    },
+                                    {
+                                        "name": "27. GAMBOA, MARC LOUIE (IND)",
+                                        "votes": 8,
+                                        "percentage": 0.270000000000000017763568394002504646778106689453125
+                                    },
+                                    {
+                                        "name": "28. GO, BONG GO    (PDPLBN)",
+                                        "votes": 274,
+                                        "percentage": 9.1300000000000007815970093361102044582366943359375
+                                    },
+                                    {
+                                        "name": "29. GONZALES, NORBERTO (PDSP)",
+                                        "votes": 17,
+                                        "percentage": 0.56999999999999995115018691649311222136020660400390625
+                                    },
+                                    {
+                                        "name": "30. HINLO, JAYVEE (PDPLBN)",
+                                        "votes": 125,
+                                        "percentage": 4.1699999999999999289457264239899814128875732421875
+                                    },
+                                    {
+                                        "name": "31. HONASAN, GRINGO (RP)",
+                                        "votes": 36,
+                                        "percentage": 1.1999999999999999555910790149937383830547332763671875
+                                    },
+                                    {
+                                        "name": "32. JOSE, RELLY JR. (KBL)",
+                                        "votes": 10,
+                                        "percentage": 0.330000000000000015543122344752191565930843353271484375
+                                    },
+                                    {
+                                        "name": "33. LACSON, PING (IND)",
+                                        "votes": 43,
+                                        "percentage": 1.4299999999999999378275106209912337362766265869140625
+                                    },
+                                    {
+                                        "name": "34. LAMBINO,  RAUL  (PDPLBN)",
+                                        "votes": 145,
+                                        "percentage": 4.8300000000000000710542735760100185871124267578125
+                                    },
+                                    {
+                                        "name": "35. LAPID, LITO (NPC)",
+                                        "votes": 55,
+                                        "percentage": 1.8300000000000000710542735760100185871124267578125
+                                    },
+                                    {
+                                        "name": "36. LEE, MANOY WILBERT (AKSYON)",
+                                        "votes": 6,
+                                        "percentage": 0.200000000000000011102230246251565404236316680908203125
+                                    },
+                                    {
+                                        "name": "37. LIDASAN, AMIRAH (MKBYN)",
+                                        "votes": 46,
+                                        "percentage": 1.5300000000000000266453525910037569701671600341796875
+                                    },
+                                    {
+                                        "name": "38. MARCOLETA, RODANTE (IND)",
+                                        "votes": 160,
+                                        "percentage": 5.3300000000000000710542735760100185871124267578125
+                                    },
+                                    {
+                                        "name": "39. MARCOS, IMEE R. (NP)",
+                                        "votes": 89,
+                                        "percentage": 2.970000000000000195399252334027551114559173583984375
+                                    },
+                                    {
+                                        "name": "40. MARQUEZ, NORMAN (IND)",
+                                        "votes": 7,
+                                        "percentage": 0.2300000000000000099920072216264088638126850128173828125
+                                    },
+                                    {
+                                        "name": "41. MARTINEZ, ERIC (IND)",
+                                        "votes": 4,
+                                        "percentage": 0.13000000000000000444089209850062616169452667236328125
+                                    },
+                                    {
+                                        "name": "42. MATA, DOC MARITES (IND)",
+                                        "votes": 79,
+                                        "percentage": 2.62999999999999989341858963598497211933135986328125
+                                    },
+                                    {
+                                        "name": "43. MATULA,  ATTY.  SONNY (WPP)",
+                                        "votes": 19,
+                                        "percentage": 0.63000000000000000444089209850062616169452667236328125
+                                    },
+                                    {
+                                        "name": "44. MAZA, LIZA (MKBYN)",
+                                        "votes": 8,
+                                        "percentage": 0.270000000000000017763568394002504646778106689453125
+                                    },
+                                    {
+                                        "name": "45. MENDOZA, HEIDI (IND)",
+                                        "votes": 17,
+                                        "percentage": 0.56999999999999995115018691649311222136020660400390625
+                                    },
+                                    {
+                                        "name": "46. MONTEMAYOR,  JOEY  (IND)",
+                                        "votes": 8,
+                                        "percentage": 0.270000000000000017763568394002504646778106689453125
+                                    },
+                                    {
+                                        "name": "47. MUSTAPHA, SUBAIR (WPP)",
+                                        "votes": 71,
+                                        "percentage": 2.37000000000000010658141036401502788066864013671875
+                                    },
+                                    {
+                                        "name": "48. OLIVAR, JOSE JESSIE (IND)",
+                                        "votes": 6,
+                                        "percentage": 0.200000000000000011102230246251565404236316680908203125
+                                    },
+                                    {
+                                        "name": "49. ONG, DOC WILLIE (AKSYON)",
+                                        "votes": 34,
+                                        "percentage": 1.12999999999999989341858963598497211933135986328125
+                                    },
+                                    {
+                                        "name": "50. PACQUIAO, MANNY PACMAN (PFP)",
+                                        "votes": 23,
+                                        "percentage": 0.770000000000000017763568394002504646778106689453125
+                                    },
+                                    {
+                                        "name": "51. PANGILINAN, KIKO (LP)",
+                                        "votes": 76,
+                                        "percentage": 2.529999999999999804600747665972448885440826416015625
+                                    },
+                                    {
+                                        "name": "52. QUERUBIN,  ARIEL PORFIRIO (NP)",
+                                        "votes": 19,
+                                        "percentage": 0.63000000000000000444089209850062616169452667236328125
+                                    },
+                                    {
+                                        "name": "53. QUIBOLOY, APOLLO (IND)",
+                                        "votes": 54,
+                                        "percentage": 1.8000000000000000444089209850062616169452667236328125
+                                    },
+                                    {
+                                        "name": "54. RAMOS, DANILO (MKBYN)",
+                                        "votes": 13,
+                                        "percentage": 0.429999999999999993338661852249060757458209991455078125
+                                    },
+                                    {
+                                        "name": "55. REVILLAME, WILLIE WIL (IND)",
+                                        "votes": 38,
+                                        "percentage": 1.270000000000000017763568394002504646778106689453125
+                                    },
+                                    {
+                                        "name": "56. RODRIGUEZ, ATTY. VIC (IND)",
+                                        "votes": 160,
+                                        "percentage": 5.3300000000000000710542735760100185871124267578125
+                                    },
+                                    {
+                                        "name": "57. SAHIDULLA, NUR-ANA (IND)",
+                                        "votes": 27,
+                                        "percentage": 0.90000000000000002220446049250313080847263336181640625
+                                    },
+                                    {
+                                        "name": "58. SALVADOR, PHILLIP IPE (PDPLBN)",
+                                        "votes": 130,
+                                        "percentage": 4.3300000000000000710542735760100185871124267578125
+                                    },
+                                    {
+                                        "name": "59. SOTTO, TITO (NPC)",
+                                        "votes": 41,
+                                        "percentage": 1.37000000000000010658141036401502788066864013671875
+                                    },
+                                    {
+                                        "name": "60. TAPADO, MICHAEL BONGBONG (PM)",
+                                        "votes": 4,
+                                        "percentage": 0.13000000000000000444089209850062616169452667236328125
+                                    },
+                                    {
+                                        "name": "61. TOLENTINO, FRANCIS TOL (PFP)",
+                                        "votes": 20,
+                                        "percentage": 0.67000000000000003996802888650563545525074005126953125
+                                    },
+                                    {
+                                        "name": "62. TULFO, BEN BITAG (IND)",
+                                        "votes": 49,
+                                        "percentage": 1.62999999999999989341858963598497211933135986328125
+                                    },
+                                    {
+                                        "name": "63. TULFO, ERWIN (LAKAS)",
+                                        "votes": 64,
+                                        "percentage": 2.12999999999999989341858963598497211933135986328125
+                                    },
+                                    {
+                                        "name": "64. VALBUENA, MAR MANIBELA (IND)",
+                                        "votes": 8,
+                                        "percentage": 0.270000000000000017763568394002504646778106689453125
+                                    },
+                                    {
+                                        "name": "65. VERCELES, LEANDRO (IND)",
+                                        "votes": 3,
+                                        "percentage": 0.1000000000000000055511151231257827021181583404541015625
+                                    },
+                                    {
+                                        "name": "66. VILLAR, CAMILLE (NP)",
+                                        "votes": 68,
+                                        "percentage": 2.270000000000000017763568394002504646778106689453125
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "contestCode": "01199000",
+                            "contestName": "PARTY LIST of PHILIPPINES",
+                            "statistic": {
+                                "overVotes": 9,
+                                "underVotes": 18,
+                                "validVotes": 401,
+                                "obtainedVotes": 326
+                            },
+                            "candidates": {
+                                "candidates": [
+                                    {
+                                        "name": "1 4PS",
+                                        "votes": 2,
+                                        "percentage": 0.60999999999999998667732370449812151491641998291015625
+                                    },
+                                    {
+                                        "name": "2 PPP",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "3 FPJ PANDAY BAYANIHAN",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "4 KABATAAN",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "5 DUTERTE YOUTH",
+                                        "votes": 6,
+                                        "percentage": 1.8400000000000000799360577730112709105014801025390625
+                                    },
+                                    {
+                                        "name": "6 ML",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "7 PBBM",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "8 P3PWD",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "9 MURANG KURYENTE",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "10 BICOL SARO",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "11 IPATUPAD",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "12 PATROL",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "13 JUAN PINOY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "14 ARTE",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "15 WIFI",
+                                        "votes": 2,
+                                        "percentage": 0.60999999999999998667732370449812151491641998291015625
+                                    },
+                                    {
+                                        "name": "16 MAAGAP",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "17 UNITED SENIOR CITIZENS",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "18 EPANAW SAMBAYANAN",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "19 AKO PADAYON",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "20 TUCP",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "21 ACT TEACHERS",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "22 1PACMAN",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "23 TGP",
+                                        "votes": 16,
+                                        "percentage": 4.910000000000000142108547152020037174224853515625
+                                    },
+                                    {
+                                        "name": "24 DUMPER PTDA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "25 ANAKALUSUGAN",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "26 AKSYON DAPAT",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "27 BHW",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "28 SULONG DIGNIDAD",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "29 BATANG QUIAPO",
+                                        "votes": 12,
+                                        "percentage": 3.680000000000000159872115546022541821002960205078125
+                                    },
+                                    {
+                                        "name": "30 PBA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "31 GILAS",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "32 AKO ILOCANO AKO",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "33 PAMILYANG MAGSASAKA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "34 CLICK PARTY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "35 ABANTE BISDAK",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "36 MANILA TEACHERS",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "37 PAMANA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "38 NANAY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "39 KM NGAYON NA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "40 BABAE AKO",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "41 ARISE",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "42 MAGDALO",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "43 APEC",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "44 MAGBUBUKID",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "45 SSS-GSIS PENSYONADO",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "46 GABRIELA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "47 TINGOG",
+                                        "votes": 5,
+                                        "percentage": 1.5300000000000000266453525910037569701671600341796875
+                                    },
+                                    {
+                                        "name": "48 APAT-DAPAT",
+                                        "votes": 9,
+                                        "percentage": 2.7599999999999997868371792719699442386627197265625
+                                    },
+                                    {
+                                        "name": "49 AHON MAHIRAP",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "50 UGB",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "51 AKBAYAN",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "52 AGIMAT",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "53 PHILRECA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "54 KAPUSO PM",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "55 ILOCANO DEFENDERS",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "56 1-RIDER PARTY-LIST",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "57 TICTOK",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "59 BAYAN MUNA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "60 ANG PROBINSIYANO",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "61 BANAT",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "62 SBP",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "63 BUHAY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "64 TULUNGAN TAYO",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "65 SAGIP",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "66 BTS BAYANING TSUPER",
+                                        "votes": 24,
+                                        "percentage": 7.36000000000000031974423109204508364200592041015625
+                                    },
+                                    {
+                                        "name": "67 VENDORS",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "68 ACT-CIS",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "69 AKTIBONG KAAGAPAY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "70 ASENSO PINOY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "71 SOLO PARENTS",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "72 ANG KOMADRONA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "73 PROMDI",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "74 PUSONG PINOY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "75 KUSUG TAUSUG",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "76 DAMAYANG FILIPINO",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "77 MPBL",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "78 ANGAT",
+                                        "votes": 3,
+                                        "percentage": 0.92000000000000003996802888650563545525074005126953125
+                                    },
+                                    {
+                                        "name": "79 KALINGA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "80 BOSES PARTY-LIST",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "81 ARANGKADA PILIPINO",
+                                        "votes": 23,
+                                        "percentage": 7.05999999999999960920149533194489777088165283203125
+                                    },
+                                    {
+                                        "name": "82 AANGAT TAYO",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "83 OFW",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "84 BIDA KATAGUMPAY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "85 KAMANGGAGAWA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "86 BFF",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "87 BUNYOG",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "88 AGRI",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "89 SENIOR CITIZENS",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "90 4K",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "91 PBP",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "92 ONE COOP",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "93 CIBAC",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "94 BH - BAGONG HENERASYON",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "95 1AGILA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "96 EDUAKSYON",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "97 ANG TINIG NG SENIORS",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "98 BG PARTY-LIST",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "99 PINOY AKO",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "100 H.E.L.P. PILIPINAS",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "101 HEALTH WORKERS",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "102 PEOPLE'S CHAMP",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "103 AA-KASOSYO PARTY",
+                                        "votes": 142,
+                                        "percentage": 43.56000000000000227373675443232059478759765625
+                                    },
+                                    {
+                                        "name": "104 SOLID NORTH PARTY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "105 ABAMIN",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "106 TRABAHO",
+                                        "votes": 12,
+                                        "percentage": 3.680000000000000159872115546022541821002960205078125
+                                    },
+                                    {
+                                        "name": "107 ANGKASANGGA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "108 TODA AKSYON",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "109 TURISMO",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "110 ABONO",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "111 ASAP NA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "112 LINGAP",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "113 UNITED FRONTLINERS",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "114 KASAMBAHAY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "115 TUTOK TO WIN",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "116 AKO OFW",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "117 AGAP",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "118 1TAHANAN",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "119 COOP-NATCCO",
+                                        "votes": 1,
+                                        "percentage": 0.309999999999999997779553950749686919152736663818359375
+                                    },
+                                    {
+                                        "name": "120 KABAYAN",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "121 1MUNTI",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "122 PINOY WORKERS",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "123 API PARTY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "124 AKO BISAYA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "125 KAMALAYAN",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "126 AKO TANOD",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "127 PROBINSYANO AKO",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "128 KABABAIHAN",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "129 RAM",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "130 ALONA",
+                                        "votes": 13,
+                                        "percentage": 3.9900000000000002131628207280300557613372802734375
+                                    },
+                                    {
+                                        "name": "131 AKO BICOL",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "132 GP (GALING SA PUSO)",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "133 KAUNLAD PINOY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "134 ABP",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "135 CWS",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "136 LPGMA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "137 A TEACHER",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "138 SWERTE",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "139 GABAY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "140 MALASAKIT@BAYANIHAN",
+                                        "votes": 32,
+                                        "percentage": 9.82000000000000028421709430404007434844970703125
+                                    },
+                                    {
+                                        "name": "141 AKAY NI SOL",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "142 LUNAS",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "143 DIWA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "144 PINUNO",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "145 PAMILYA MUNA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "146 BAGONG PILIPINAS",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "147 HUGPONG FEDERAL",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "148 TUPAD",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "149 LAANG KAWAL",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "150 PAMILYA KO",
+                                        "votes": 8,
+                                        "percentage": 2.45000000000000017763568394002504646778106689453125
+                                    },
+                                    {
+                                        "name": "151 BBM",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "152 HEAL PH",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "153 ABANG LINGKOD",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "154 MAGSASAKA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "155 MAHARLIKA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "156 USWAG ILONGGO",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "local": [
+                        {
+                            "contestCode": "00736001",
+                            "contestName": "MEMBER, HOUSE OF REPRESENTATIVES of LANAO DEL SUR - FIRST LEGDIST",
+                            "statistic": {
+                                "overVotes": 3,
+                                "underVotes": 8,
+                                "validVotes": 401,
+                                "obtainedVotes": 342
+                            },
+                            "candidates": {
+                                "candidates": [
+                                    {
+                                        "name": "1. ADIONG, ZIA (LAKAS)",
+                                        "votes": 316,
+                                        "percentage": 92.400000000000005684341886080801486968994140625
+                                    },
+                                    {
+                                        "name": "2. DAGALANGIT, MACLOC (WPP)",
+                                        "votes": 3,
+                                        "percentage": 0.88000000000000000444089209850062616169452667236328125
+                                    },
+                                    {
+                                        "name": "3. HADJIOMAR, ABOFARHAN (UBJP)",
+                                        "votes": 23,
+                                        "percentage": 6.730000000000000426325641456060111522674560546875
+                                    },
+                                    {
+                                        "name": "4. MACABATO, GEBSON (IND)",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "contestCode": "00436000",
+                            "contestName": "PROVINCIAL GOVERNOR of LANAO DEL SUR",
+                            "statistic": {
+                                "overVotes": 2,
+                                "underVotes": 3,
+                                "validVotes": 401,
+                                "obtainedVotes": 348
+                            },
+                            "candidates": {
+                                "candidates": [
+                                    {
+                                        "name": "1. ADIONG, MAMINTAL JR. (LAKAS)",
+                                        "votes": 316,
+                                        "percentage": 90.7999999999999971578290569595992565155029296875
+                                    },
+                                    {
+                                        "name": "2. MACARAMBON, FIAT (UBJP)",
+                                        "votes": 32,
+                                        "percentage": 9.199999999999999289457264239899814128875732421875
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "contestCode": "00536000",
+                            "contestName": "PROVINCIAL VICE-GOVERNOR of LANAO DEL SUR",
+                            "statistic": {
+                                "overVotes": 2,
+                                "underVotes": 9,
+                                "validVotes": 401,
+                                "obtainedVotes": 342
+                            },
+                            "candidates": {
+                                "candidates": [
+                                    {
+                                        "name": "1. ADIONG, MUJAM (LAKAS)",
+                                        "votes": 304,
+                                        "percentage": 88.8900000000000005684341886080801486968994140625
+                                    },
+                                    {
+                                        "name": "2. MACASALONG, MARJANIE (UBJP)",
+                                        "votes": 38,
+                                        "percentage": 11.1099999999999994315658113919198513031005859375
+                                    },
+                                    {
+                                        "name": "3. MIMBALAWAG, KNA-MDM (RP)",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "contestCode": "00636001",
+                            "contestName": "MEMBER, SANGGUNIANG PANLALAWIGAN of LANAO DEL SUR - FIRST PROVDIST",
+                            "statistic": {
+                                "overVotes": 40,
+                                "underVotes": 167,
+                                "validVotes": 2005,
+                                "obtainedVotes": 1558
+                            },
+                            "candidates": {
+                                "candidates": [
+                                    {
+                                        "name": "1. ABDULKAREEM, ABUARHAM (UBJP)",
+                                        "votes": 52,
+                                        "percentage": 3.339999999999999857891452847979962825775146484375
+                                    },
+                                    {
+                                        "name": "2. AMATONDING, OMAR (PFP)",
+                                        "votes": 25,
+                                        "percentage": 1.600000000000000088817841970012523233890533447265625
+                                    },
+                                    {
+                                        "name": "3. AMPASO, AMBA (NP)",
+                                        "votes": 122,
+                                        "percentage": 7.8300000000000000710542735760100185871124267578125
+                                    },
+                                    {
+                                        "name": "4. BALENTI, JAFAAR MALO (PFP)",
+                                        "votes": 12,
+                                        "percentage": 0.770000000000000017763568394002504646778106689453125
+                                    },
+                                    {
+                                        "name": "5. CAPAL, EDMUND (LAKAS)",
+                                        "votes": 256,
+                                        "percentage": 16.42999999999999971578290569595992565155029296875
+                                    },
+                                    {
+                                        "name": "6. GANDA, NASH (LAKAS)",
+                                        "votes": 231,
+                                        "percentage": 14.8300000000000000710542735760100185871124267578125
+                                    },
+                                    {
+                                        "name": "7. GANDAMRA, RINGO (LAKAS)",
+                                        "votes": 224,
+                                        "percentage": 14.3800000000000007815970093361102044582366943359375
+                                    },
+                                    {
+                                        "name": "8. HASSAN, PADEL (UBJP)",
+                                        "votes": 9,
+                                        "percentage": 0.57999999999999996003197111349436454474925994873046875
+                                    },
+                                    {
+                                        "name": "9. MARANGIT, ALIM (PFP)",
+                                        "votes": 40,
+                                        "percentage": 2.569999999999999840127884453977458178997039794921875
+                                    },
+                                    {
+                                        "name": "10. MAROHOMBSAR, RPK JOJO (LAKAS)",
+                                        "votes": 222,
+                                        "percentage": 14.25
+                                    },
+                                    {
+                                        "name": "11. SANI, ALILIT (LAKAS)",
+                                        "votes": 200,
+                                        "percentage": 12.839999999999999857891452847979962825775146484375
+                                    },
+                                    {
+                                        "name": "12. SHARIEF, AHLAN (UBJP)",
+                                        "votes": 63,
+                                        "percentage": 4.04000000000000003552713678800500929355621337890625
+                                    },
+                                    {
+                                        "name": "13. SHARIEF, OMAR-ALI (PFP)",
+                                        "votes": 97,
+                                        "percentage": 6.230000000000000426325641456060111522674560546875
+                                    },
+                                    {
+                                        "name": "14. SULTAN, SALIC (IND)",
+                                        "votes": 5,
+                                        "percentage": 0.320000000000000006661338147750939242541790008544921875
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "contestCode": "00836060",
+                            "contestName": "MAYOR of LANAO DEL SUR - BUBONG",
+                            "statistic": {
+                                "overVotes": 2,
+                                "underVotes": 1,
+                                "validVotes": 401,
+                                "obtainedVotes": 350
+                            },
+                            "candidates": {
+                                "candidates": [
+                                    {
+                                        "name": "1. MUNDER, ALFAIS (LAKAS)",
+                                        "votes": 346,
+                                        "percentage": 98.8599999999999994315658113919198513031005859375
+                                    },
+                                    {
+                                        "name": "2. MUNDER, CAYAMERA (NP)",
+                                        "votes": 1,
+                                        "percentage": 0.289999999999999980015985556747182272374629974365234375
+                                    },
+                                    {
+                                        "name": "3. SARIP, SULTAN ALCADER (UBJP)",
+                                        "votes": 3,
+                                        "percentage": 0.85999999999999998667732370449812151491641998291015625
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "contestCode": "00936060",
+                            "contestName": "VICE-MAYOR of LANAO DEL SUR - BUBONG",
+                            "statistic": {
+                                "overVotes": 0,
+                                "underVotes": 17,
+                                "validVotes": 401,
+                                "obtainedVotes": 336
+                            },
+                            "candidates": {
+                                "candidates": [
+                                    {
+                                        "name": "1. MACARAYA, MOHAMADALI (IND)",
+                                        "votes": 65,
+                                        "percentage": 19.35000000000000142108547152020037174224853515625
+                                    },
+                                    {
+                                        "name": "2. MALINAO, LOPEZ (UBJP)",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "3. NASSER, NASMERAH (LAKAS)",
+                                        "votes": 269,
+                                        "percentage": 80.06000000000000227373675443232059478759765625
+                                    },
+                                    {
+                                        "name": "4. SARIP, RASUL (PFP)",
+                                        "votes": 2,
+                                        "percentage": 0.59999999999999997779553950749686919152736663818359375
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "contestCode": "01036060",
+                            "contestName": "MEMBER, SANGGUNIANG BAYAN of LANAO DEL SUR - BUBONG - LONE DIST",
+                            "statistic": {
+                                "overVotes": 72,
+                                "underVotes": 239,
+                                "validVotes": 3208,
+                                "obtainedVotes": 2513
+                            },
+                            "candidates": {
+                                "candidates": [
+                                    {
+                                        "name": "1. ABDULBOCUA, ALGARY (LAKAS)",
+                                        "votes": 280,
+                                        "percentage": 11.1400000000000005684341886080801486968994140625
+                                    },
+                                    {
+                                        "name": "2. ABDULLAH, ABU OMAR (UBJP)",
+                                        "votes": 33,
+                                        "percentage": 1.310000000000000053290705182007513940334320068359375
+                                    },
+                                    {
+                                        "name": "3. ADAPUN, ACARI (UBJP)",
+                                        "votes": 2,
+                                        "percentage": 0.08000000000000000166533453693773481063544750213623046875
+                                    },
+                                    {
+                                        "name": "4. ANGINTAOPAN, NORIE (UBJP)",
+                                        "votes": 10,
+                                        "percentage": 0.40000000000000002220446049250313080847263336181640625
+                                    },
+                                    {
+                                        "name": "5. CALI, DELTA (UBJP)",
+                                        "votes": 26,
+                                        "percentage": 1.0300000000000000266453525910037569701671600341796875
+                                    },
+                                    {
+                                        "name": "6. COTA, NAJEB (IND)",
+                                        "votes": 185,
+                                        "percentage": 7.36000000000000031974423109204508364200592041015625
+                                    },
+                                    {
+                                        "name": "7. DIAMLA, AMER-HUSSIEN (LAKAS)",
+                                        "votes": 187,
+                                        "percentage": 7.44000000000000039079850466805510222911834716796875
+                                    },
+                                    {
+                                        "name": "8. DIAMLA, EBOY (LAKAS)",
+                                        "votes": 171,
+                                        "percentage": 6.79999999999999982236431605997495353221893310546875
+                                    },
+                                    {
+                                        "name": "9. DITENGKE, ALIKHAN (UBJP)",
+                                        "votes": 22,
+                                        "percentage": 0.88000000000000000444089209850062616169452667236328125
+                                    },
+                                    {
+                                        "name": "10. IMAM, ABDULCARIM (UBJP)",
+                                        "votes": 59,
+                                        "percentage": 2.350000000000000088817841970012523233890533447265625
+                                    },
+                                    {
+                                        "name": "11. LIMGAS, NAPOLEON (IND)",
+                                        "votes": 45,
+                                        "percentage": 1.79000000000000003552713678800500929355621337890625
+                                    },
+                                    {
+                                        "name": "12. MACAPUNDAG, JABBAR (PFP)",
+                                        "votes": 11,
+                                        "percentage": 0.440000000000000002220446049250313080847263336181640625
+                                    },
+                                    {
+                                        "name": "13. MALIK, AL-HIZAM (LAKAS)",
+                                        "votes": 271,
+                                        "percentage": 10.7799999999999993605115378159098327159881591796875
+                                    },
+                                    {
+                                        "name": "14. MANAROS, ALICAN (IND)",
+                                        "votes": 5,
+                                        "percentage": 0.200000000000000011102230246251565404236316680908203125
+                                    },
+                                    {
+                                        "name": "15. MANUA, ABDUL RASHID (LAKAS)",
+                                        "votes": 320,
+                                        "percentage": 12.730000000000000426325641456060111522674560546875
+                                    },
+                                    {
+                                        "name": "16. MUNDER, ABDUL ALIAZIS (IND)",
+                                        "votes": 294,
+                                        "percentage": 11.699999999999999289457264239899814128875732421875
+                                    },
+                                    {
+                                        "name": "17. MUNDER, LADY JOHAILA (LAKAS)",
+                                        "votes": 261,
+                                        "percentage": 10.3900000000000005684341886080801486968994140625
+                                    },
+                                    {
+                                        "name": "18. PALAWAN, KUYA IMAM (IND)",
+                                        "votes": 108,
+                                        "percentage": 4.29999999999999982236431605997495353221893310546875
+                                    },
+                                    {
+                                        "name": "19. PANGUSAN, SAILANIE (UBJP)",
+                                        "votes": 18,
+                                        "percentage": 0.7199999999999999733546474089962430298328399658203125
+                                    },
+                                    {
+                                        "name": "20. SARIP, ANSARY (LAKAS)",
+                                        "votes": 169,
+                                        "percentage": 6.730000000000000426325641456060111522674560546875
+                                    },
+                                    {
+                                        "name": "21. SARIP, RAKIM (PFP)",
+                                        "votes": 10,
+                                        "percentage": 0.40000000000000002220446049250313080847263336181640625
+                                    },
+                                    {
+                                        "name": "22. TAURAC, AHSAN (IND)",
+                                        "votes": 6,
+                                        "percentage": 0.2399999999999999911182158029987476766109466552734375
+                                    },
+                                    {
+                                        "name": "23. TOMALI, HUSNIE (LAKAS)",
+                                        "votes": 7,
+                                        "percentage": 0.2800000000000000266453525910037569701671600341796875
+                                    },
+                                    {
+                                        "name": "24. TOMINAMAN, ESMAEL (UBJP)",
+                                        "votes": 13,
+                                        "percentage": 0.520000000000000017763568394002504646778106689453125
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "contestCode": "01295000",
+                            "contestName": "BARMM PARTY REPRESENTATIVES",
+                            "statistic": {
+                                "overVotes": 0,
+                                "underVotes": 0,
+                                "validVotes": 401,
+                                "obtainedVotes": 0
+                            },
+                            "candidates": {
+                                "candidates": [
+                                    {
+                                        "name": "1. BAPA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "2. BGC",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "3. MAHARDIKA",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "4. MORO AKO",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "5. PRO BANGSAMORO PARTY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "6. RAAYAT DEMOCRATIC PARTY",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "7. UBJP",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "contestCode": "01436003",
+                            "contestName": "BARMM MEMBERS OF THE PARLIAMENT of BARMM - LANAO DEL SUR - THIRD REGDIST",
+                            "statistic": {
+                                "overVotes": 0,
+                                "underVotes": 0,
+                                "validVotes": 401,
+                                "obtainedVotes": 0
+                            },
+                            "candidates": {
+                                "candidates": [
+                                    {
+                                        "name": "1. ADIONG, RAUF (SIAP)",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "2. BAYABAO, JALAL (BAPA)",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "3. MACARAYA, JAMES (UBJP)",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    },
+                                    {
+                                        "name": "4. RIMBANG, SULTAN (PDPLBN)",
+                                        "votes": 0,
+                                        "percentage": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
